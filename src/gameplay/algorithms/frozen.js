@@ -1,0 +1,1 @@
+export const frozen = (curPosition, state) => curPosition
