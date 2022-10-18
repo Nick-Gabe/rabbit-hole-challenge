@@ -9,7 +9,7 @@ export const ConfigsMenu = () => {
 
   const validatePosition = (position) => {
     if (position >= state.boardSize) position = state.boardSize - 1;
-    else if (position < 0) position = 0;
+    else if (position < -1) position = -1;
 
     return position;
   };

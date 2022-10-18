@@ -16,9 +16,18 @@ export const ButtonSection = (props) => {
 
   const restart = () => {
     setPlaying(false);
+
+    const getRandomPos = () => Math.floor(Math.random() * state.boardSize);
+
+    let bunnyPos = state.bunnyInitialPosition;
+    let playerPos = state.playerInitialPosition;
+
+    if(bunnyPos === -1) bunnyPos = getRandomPos()
+    if(playerPos === -1) playerPos = getRandomPos()
+
     dispatch({
-      bunnyPosition: state.bunnyInitialPosition,
-      playerPosition: state.playerInitialPosition,
+      bunnyPosition: bunnyPos,
+      playerPosition: playerPos,
       found: false,
       rounds: 0,
     });
