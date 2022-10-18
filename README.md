@@ -25,6 +25,26 @@ yarn dev
 After that, the website will be served in your browser, in the url specified in the terminal.
 Now you can do whatever changes do you want, commit and push them, and then send a [Pull request](https://github.com/Nick-Gabe/rabbit-hole-challenge/compare) to this repository. It will be revised, and if its everything alright it will be approved and merged :).
 
+## 🗂️ Folder structure
+```txt
+src
+─┬─
+ ├── assets (images, videos, svgs, assets in general)
+ │
+ ├─┬ components
+ │ ├── Emojis (bunny, player, holes...)
+ │ ├── Interactive (config interactibles like inputs, buttons, menus)
+ │ └── other components
+ │
+ ├── contexts (react contexts)
+ │
+ ├─┬ gameplay (related to game logic)
+ │ ├── algorithms (algorithms used for the game AIs, one per file)
+ │ └── loop.js (executes the gameplay loop, like changing positions and states)
+ │
+ └── utils (reusable functions)
+```
+
 ## 🏆 Contributors
 <table>
   <tbody>
