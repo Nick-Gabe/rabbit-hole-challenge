@@ -40,6 +40,17 @@ Now you can do whatever changes do you want, commit and push them, and then send
         <a href="https://github.com/Nick-Gabe_" title="GitHub">🐱‍💻</a>
         <a href="https://www.linkedin.com/in/nicolas-gabriel/" title="Linkedin">🤵</a>
       </td>
+      <td align="center">
+        <a href="https://twitter.com/JeffQuesado">
+          <img src="https://avatars.githubusercontent.com/u/6178379?v=4" width="100px;" alt="Kent C. Dodds"/>
+            <br />
+          <sub><b>Jeff Quesado</b></sub>
+        </a>
+        <br />
+        <a href="https://twitter.com/JeffQuesado" title="Twitter">🐦</a>
+        <a href="https://github.com/jeffque" title="GitHub">🐱‍💻</a>
+        <a href="https://computaria.gitlab.io/blog/" title="Website">🌐</a>
+      </td>
     </tr>
   </tbody>
 </table>
