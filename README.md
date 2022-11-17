@@ -51,7 +51,7 @@ src
     <tr>
       <td align="center">
         <a href="https://github.com/Nick-Gabe">
-          <img src="https://avatars.githubusercontent.com/u/42651514?v=4" width="100px;" alt="Kent C. Dodds"/>
+          <img src="https://github.com/Nick-Gabe.png" width="100px;" alt="Nick Gabe's github avatar"/>
             <br />
           <sub><b>Nick Gabe</b></sub>
         </a>
@@ -62,7 +62,7 @@ src
       </td>
       <td align="center">
         <a href="https://twitter.com/JeffQuesado">
-          <img src="https://avatars.githubusercontent.com/u/6178379?v=4" width="100px;" alt="Kent C. Dodds"/>
+          <img src="https://github.com/jeffque.png" width="100px;" alt="Jeff Quesado's github avatar"/>
             <br />
           <sub><b>Jeff Quesado</b></sub>
         </a>
